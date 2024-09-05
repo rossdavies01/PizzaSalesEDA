@@ -7,7 +7,7 @@ An exploration of a pizza shop's sales data for a calendar year using Python, SQ
 ### 4. EDA Using Jupyter Notebook
 ### 5. Creation of client-facing interactive dashboard using Power B.I.
 ## 1. Introduction
-This project uses the sales data from a pizza shop in order to derive valuable insights for data-driven decisions and 
+This project uses the sales data from a pizza shop in order to derive valuable insights for data-driven decisions and further refinement of the business model.
 ## 2. Python ETL Pipeline
 Built pipieline using Python in Eclipse in order to read data from a CSV and load it into SQL Server
 ![pythonpipeline](https://github.com/user-attachments/assets/75d2366b-31c5-429b-a080-4001f8520385)
