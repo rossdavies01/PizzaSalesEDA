@@ -13,6 +13,8 @@ Built pipieline using Python in Eclipse in order to read data from a CSV and loa
 ![pythonpipeline](https://github.com/user-attachments/assets/75d2366b-31c5-429b-a080-4001f8520385)
 ## 3. Dataset & Cleansed Dataset
 ![pizzasales_originaldata](https://github.com/user-attachments/assets/d58ab207-0c47-4456-90fb-0edc8ff9b7c2)
+### Creation of bridge table in order to normalize ingredients for analysis
+![bridgetablequery](https://github.com/user-attachments/assets/3b5e797a-4a3d-4f2e-9689-d5bc982cd148)
 ### Cleansed
 Check for null values\
 Standardize date and time\
